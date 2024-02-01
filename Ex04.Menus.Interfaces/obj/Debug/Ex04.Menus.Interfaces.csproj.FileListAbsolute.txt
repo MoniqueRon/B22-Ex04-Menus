@@ -1,0 +1,7 @@
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex04 Monique 208542944 Inbar 315976647\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex04 Monique 208542944 Inbar 315976647\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex04 Monique 208542944 Inbar 315976647\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex04 Monique 208542944 Inbar 315976647\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex04 Monique 208542944 Inbar 315976647\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex04 Monique 208542944 Inbar 315976647\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex04 Monique 208542944 Inbar 315976647\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb

@@ -1,0 +1,15 @@
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex04 Monique 208542944 Inbar 315976647\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex04 Monique 208542944 Inbar 315976647\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex04 Monique 208542944 Inbar 315976647\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex04 Monique 208542944 Inbar 315976647\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe.config
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex04 Monique 208542944 Inbar 315976647\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex04 Monique 208542944 Inbar 315976647\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.pdb
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex04 Monique 208542944 Inbar 315976647\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex04 Monique 208542944 Inbar 315976647\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex04 Monique 208542944 Inbar 315976647\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex04 Monique 208542944 Inbar 315976647\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll.config
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex04 Monique 208542944 Inbar 315976647\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex04 Monique 208542944 Inbar 315976647\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex04 Monique 208542944 Inbar 315976647\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CopyComplete
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex04 Monique 208542944 Inbar 315976647\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.exe
+C:\Users\lenovo\Documents\IDC\Year 2\Semester 2\C#\B22 Ex04 Monique 208542944 Inbar 315976647\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.pdb
